@@ -1,6 +1,7 @@
 package com.springJdbc.entities;
 
 public class UserInfo {
+	//add comment
 	private int id;
 	private String name;
 	private String city;
